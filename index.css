@@ -372,6 +372,58 @@
     color: white;
 
 }
+.waku8{
+    position: absolute;
+    background-color:#242424;
+    width: 90%;
+    height: 350px;
+    margin: 5%;
+    margin-top: -1200px;
+}
+
+.mywork-img8{
+    position: absolute;
+    display: block;
+    width: 250px;
+   height: 300px;
+    padding:5%;
+    margin:0 0 0 auto;
+    translate: 200% -1240px;
+}
+
+
+.mywork-sent8{
+    position: absolute;
+    margin-top: -1100px;
+    margin-left: 300px;
+    color: white;
+
+}
+.waku9{
+    position: absolute;
+    background-color:#242424;
+    width: 90%;
+    height: 350px;
+    margin: 5%;
+    margin-top: -700px;
+}
+
+.mywork-img9{
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    padding:5%;
+    margin-top: -750px;
+}
+
+
+.mywork-sent9{
+    position: absolute;
+    margin-top: -600px;
+    margin-left: 500px;
+    color: white;
+
+}
 /*---------------footer-----------------*/
 
 .fot{
