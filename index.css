@@ -289,12 +289,20 @@
     margin-top: -3740px;
 }
 
-
+.work3-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -3650px;
+    margin-left: 400px;
+    width: 40%;
+    color: white;
+}
 .mywork-sent3{
     position: absolute;
     margin-top: -3600px;
     margin-left: 500px;
     color: white;
+    width: 55%;
 
 }
 
@@ -321,8 +329,9 @@
 .mywork-sent4{
     position: absolute;
     margin-top: -3100px;
-    margin-left: 300px;
+    margin-left: 100px;
     color: white;
+    width: 40%;
 
 }
 
@@ -349,6 +358,7 @@
     margin-top: -2600px;
     margin-left: 500px;
     color: white;
+    width: 40%;
 
 }
 .waku6{
@@ -444,7 +454,7 @@
     text-align: center;
     font-size: 3rem;
     margin-top: -600px;
-    margin-left: 550px;
+    margin-left: 450px;
     color: white;
     border-bottom:1px solid;
     border-color: #fff;
