@@ -213,7 +213,6 @@
 .mywork-img2{
     position: absolute;
     display: block;
-   
     object-position: 0 0px;
     width: 250px;
    height: 300px;
@@ -256,7 +255,7 @@
     width: 300px;
     height: 250px;
     padding:5%;
-    margin-top: -3700px;
+    margin-top: -3740px;
 }
 
 
@@ -280,12 +279,11 @@
 .mywork-img4{
     position: absolute;
     display: block;
-    object-fit: cover;
-    width: 300px;
-    height: 250px;
+    width: 250px;
+   height: 300px;
     padding:5%;
     margin:0 0 0 auto;
-    translate: 172% -3220px;
+    translate: 200% -3230px;
 }
 
 
@@ -308,11 +306,10 @@
 
 .mywork-img5{
     position: absolute;
-    object-fit: cover;
-    width: 300px;
-    height: 250px;
+    width: 250px;
+    height: 300px;
     padding:5%;
-    margin-top: -2700px;
+    margin-top: -2750px;
 }
 
 
@@ -323,7 +320,58 @@
     color: white;
 
 }
+.waku6{
+    position: absolute;
+    background-color:#242424;
+    width: 90%;
+    height: 350px;
+    margin: 5%;
+    margin-top: -2200px;
+}
 
+.mywork-img6{
+    position: absolute;
+    display: block;
+    width: 250px;
+   height: 300px;
+    padding:5%;
+    margin:0 0 0 auto;
+    translate: 200% -2240px;
+}
+
+
+.mywork-sent6{
+    position: absolute;
+    margin-top: -2100px;
+    margin-left: 300px;
+    color: white;
+
+}
+.waku7{
+    position: absolute;
+    background-color:#242424;
+    width: 90%;
+    height: 350px;
+    margin: 5%;
+    margin-top: -1700px;
+}
+
+.mywork-img7{
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    padding:5%;
+    margin-top: -1750px;
+}
+
+
+.mywork-sent7{
+    position: absolute;
+    margin-top: -1600px;
+    margin-left: 500px;
+    color: white;
+
+}
 /*---------------footer-----------------*/
 
 .fot{
