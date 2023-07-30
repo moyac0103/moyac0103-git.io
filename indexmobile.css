@@ -190,7 +190,7 @@
     width: 300px;
     height: 315px;
     padding:5%;
-    
+    padding-bottom: 50px;
 }
 .work1-tytle{
     font-size: 1.5rem;
@@ -204,14 +204,14 @@
     width: 65%;
     color: black;
     padding-left: 60px;
-
+    padding-bottom: 50px;
 }
 .mywork-img2{
     object-fit: cover;
     width: 220px;
     height: 315px;
     padding-left: 100px;
-    
+    padding-bottom: 50px;
 }
 .work2-tytle{
     font-size: 1rem;
@@ -226,7 +226,7 @@
     width: 65%;
     color: black;
     padding-left: 60px;
-
+    padding-bottom: 50px;
 }
 
 .mywork-img3{
@@ -234,7 +234,7 @@
     width: 220px;
     height: 220px;
     padding-left: 100px;
-    
+    padding-bottom: 50px;
 }
 .work3-tytle{
     font-size: 1rem;
@@ -249,7 +249,7 @@
     width: 65%;
     color: black;
     padding-left: 60px;
-
+    padding-bottom: 50px;
 }
 
 .mywork-img4{
@@ -257,7 +257,7 @@
     width: 220px;
     height: 315px;
     padding-left: 100px;
-    
+    padding-bottom: 50px;
 }
 .work4-tytle{
     font-size: 1rem;
@@ -272,5 +272,139 @@
     width: 65%;
     color: black;
     padding-left: 60px;
+    padding-bottom: 50px;
+}
 
+.mywork-img5{
+    object-fit: cover;
+    width: 220px;
+    height: 315px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.work5-tytle{
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent5{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+
+.mywork-img6{
+    object-fit: cover;
+    width: 220px;
+    height: 220px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.work6-tytle{
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent6{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+.mywork-img7{
+    object-fit: cover;
+    width: 220px;
+    height: 315px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    
+}
+.work7-tytle{
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent7{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+.mywork-img8{
+    object-fit: cover;
+    width: 220px;
+    height: 315px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    
+}
+.work8-tytle{
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent8{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+    padding-bottom: 50px;
+}
+
+.mywork-sent9{
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    border-bottom:1px solid;
+    border-color:black;
+    width: 80%;
+    padding-left: 20px;
+   
+
+}
+.mywork-sent9-1{
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+    width: 70%;
+    padding-left: 50px;
+    padding-bottom: 50px;
+
+}
+.fot{
+    width: 100%;
+    height: 350px;
+    background-color: #242424;
+    color: white;
+    margin-top: 100px;
+}
+.thank{
+    text-align: center;
+    padding-top: 75px;
+    font-size: 1.5rem;
+    margin-bottom: 100px;
+}
+.company-name{
+    text-align: center;
+    color: white;
+}
+.day{
+    text-align: center;
+    color: white;
 }
