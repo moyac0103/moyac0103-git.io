@@ -2,9 +2,6 @@
     padding: 0;
     margin: 0;
 }
-img {
-    width: 100%;
-}
 .header{
     background-color:#242424;
     width: 100%;
@@ -117,7 +114,7 @@ img {
       opacity: 0;
     }
   }
-
+/*--------------------top---------------------------*/
   .img-topsection img{
     position: relative;
     width: 100%;
@@ -128,15 +125,102 @@ img {
 .top-sentence1{
     position: absolute;
     color: white;
-    top: 300px;
+    top: 150px;
     left: 100px;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .top-sentence2{
     position: absolute;
     color: white;
-    top:350px;
+    top:175px;
     left: 125px;
+    font-size: 0.75rem;
+}
+/*-------------------info---------------------------*/
+.myinfo{
+    height: 500px;
+    background-color: #242424;
+    margin-top: -2%;
+    padding-bottom: 100px;
+}
+
+.myinfo-tytle{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 50px;
+    height: 50px;
+    width: 100%;
+    color: white;
+}
+
+.my-img-img{
+    object-fit: cover;
+    height: 100px;
+    width: 30%;
+    padding-left: 40%;
+    
+}
+
+.myinfo-1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.myinfo-2{
+    color: white;
+    padding-left: 10%;
+    text-align: center;
+}
+
+/*-------------------work---------------------------*/
+
+.mywork-tytle{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 50px;
+    height: 50px;
+    width: 100%;
+}
+.mywork-img{
+    object-position: 0 -46px;
+    object-fit: cover;
+    width: 300px;
+    height: 315px;
+    padding:5%;
+    
+}
+.work1-tytle{
     font-size: 1.5rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+.mywork-sent{
+    text-align: center;
+    width: 90%;
+    color: black;
+    padding-left: 50px;
+
+}
+.mywork-img2{
+    object-fit: cover;
+    width: 220px;
+    height: 315px;
+    padding-left: 100px;
+    
+}
+.work1-tytle{
+    font-size: 1.5rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+.mywork-sent{
+    text-align: center;
+    width: 100%;
+    color: black;
+
 }
