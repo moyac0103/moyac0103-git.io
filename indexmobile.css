@@ -197,12 +197,13 @@
     text-align: center;
     width: 100%;
     color: black;
+    padding-left: 10px;
 }
 .mywork-sent{
     text-align: center;
-    width: 90%;
+    width: 65%;
     color: black;
-    padding-left: 50px;
+    padding-left: 60px;
 
 }
 .mywork-img2{
@@ -212,15 +213,64 @@
     padding-left: 100px;
     
 }
-.work1-tytle{
-    font-size: 1.5rem;
+.work2-tytle{
+    font-size: 1rem;
     text-align: center;
     width: 100%;
     color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
 }
-.mywork-sent{
+.mywork-sent2{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+
+}
+
+.mywork-img3{
+    object-fit: cover;
+    width: 220px;
+    height: 220px;
+    padding-left: 100px;
+    
+}
+.work3-tytle{
+    font-size: 1rem;
     text-align: center;
     width: 100%;
     color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent3{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
+
+}
+
+.mywork-img4{
+    object-fit: cover;
+    width: 220px;
+    height: 315px;
+    padding-left: 100px;
+    
+}
+.work4-tytle{
+    font-size: 1rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.mywork-sent4{
+    text-align: center;
+    width: 65%;
+    color: black;
+    padding-left: 60px;
 
 }
