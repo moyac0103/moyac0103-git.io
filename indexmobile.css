@@ -193,11 +193,12 @@
     padding-bottom: 50px;
 }
 .work1-tytle{
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-align: center;
     width: 100%;
     color: black;
     padding-left: 10px;
+    padding-bottom: 20px;
 }
 .mywork-sent{
     text-align: center;
