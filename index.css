@@ -183,7 +183,7 @@
     width: 300px;
     height: 315px;
     padding:5%;
-    margin-top: -4750px;
+    margin-top: -4760px;
 }
 .work1-tytle{
     position: absolute;
@@ -218,7 +218,7 @@
    height: 300px;
     padding:5%;
     margin:0 0 0 auto;
-    translate: 200% -4230px;
+    translate: 200% -4250px;
 }
 .work2-tytle{
     position: absolute;
@@ -408,17 +408,10 @@
     margin-top: -700px;
 }
 
-.mywork-img9{
-    position: absolute;
-    width: 250px;
-    height: 300px;
-    padding:5%;
-    margin-top: -750px;
-}
-
-
 .mywork-sent9{
     position: absolute;
+    text-align: center;
+    font-size: 3rem;
     margin-top: -600px;
     margin-left: 500px;
     color: white;
