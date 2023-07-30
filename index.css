@@ -219,8 +219,8 @@
 .work1-tytle{
     position: absolute;
     font-size: 1.5rem;
-    margin-top: -4650px;
-    margin-left: 400px;
+    margin-top: -4750px;
+    margin-left: 100px;
     width: 55%;
     color: white;
 }
@@ -254,7 +254,7 @@
 .work2-tytle{
     position: absolute;
     font-size: 1.5rem;
-    margin-top: -4150px;
+    margin-top: -4250px;
     margin-left: 100px;
     width: 55%;
     color: white;
@@ -292,8 +292,8 @@
 .work3-tytle{
     position: absolute;
     font-size: 1.5rem;
-    margin-top: -3650px;
-    margin-left: 400px;
+    margin-top: -3750px;
+    margin-left: 100px;
     width: 40%;
     color: white;
 }
@@ -324,11 +324,18 @@
     margin:0 0 0 auto;
     translate: 200% -3250px;
 }
-
+.work4-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -3250px;
+    margin-left: 100px;
+    width: 55%;
+    color: white;
+}
 
 .mywork-sent4{
     position: absolute;
-    margin-top: -3100px;
+    margin-top: -3150px;
     margin-left: 100px;
     color: white;
     width: 40%;
@@ -352,7 +359,14 @@
     margin-top: -2750px;
 }
 
-
+.work5-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -2750px;
+    margin-left: 100px;
+    width: 55%;
+    color: white;
+}
 .mywork-sent5{
     position: absolute;
     margin-top: -2600px;
@@ -379,7 +393,14 @@
     margin:0 0 0 auto;
     translate: 160% -2250px;
 }
-
+.work6-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -2250px;
+    margin-left: 100px;
+    width: 55%;
+    color: white;
+}
 
 .mywork-sent6{
     position: absolute;
@@ -404,6 +425,15 @@
     height: 300px;
     padding:5%;
     margin-top: -1750px;
+
+}
+.work7-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -1750px;
+    margin-left: 100px;
+    width: 55%;
+    color: white;
 }
 
 
@@ -412,6 +442,7 @@
     margin-top: -1600px;
     margin-left: 500px;
     color: white;
+    width: 40%;
 
 }
 .waku8{
@@ -432,12 +463,21 @@
     margin:0 0 0 auto;
     translate: 200% -1250px;
 }
+.work8-tytle{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -1250px;
+    margin-left: 100px;
+    width: 55%;
+    color: white;
+}
 
 
 .mywork-sent8{
     position: absolute;
     margin-top: -1100px;
-    margin-left: 300px;
+    margin-left: 100px;
+    width: 45%;
     color: white;
 
 }
@@ -454,7 +494,7 @@
     position: absolute;
     text-align: center;
     font-size: 3rem;
-    margin-top: -600px;
+    margin-top: -650px;
     margin-left: 450px;
     color: white;
     border-bottom:1px solid;
@@ -467,7 +507,7 @@
     position: absolute;
     text-align: center;
     font-size: 2rem;
-    margin-top: -500px;
+    margin-top: -550px;
     margin-left: 400px;
     color: white;
 
